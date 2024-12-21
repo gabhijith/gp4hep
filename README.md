@@ -17,6 +17,11 @@ This script, `prep_limit_new.py`, is designed to prepare data for fitting, bias,
 - iminuit
 - argparse
 
+Requirements can also be installed through conda with the `environment.yml` file as follows
+```
+conda env create -f environment.yml
+```
+
 ## Usage
 
 The script can be run with the following command:
